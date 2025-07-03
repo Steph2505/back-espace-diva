@@ -1,0 +1,5 @@
+Magasin 
+    - Afficher le listing de tous les magasins et faire un tri en fonction du magasin et des articles présents
+
+Article 
+    - Demander si l'article doit signaler si son stock atteint un certain seuil
